@@ -1,0 +1,1 @@
+# Unlike C++ and Java there is no boilerplate code for python to start with.
